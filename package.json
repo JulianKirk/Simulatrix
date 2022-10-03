@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "three": "^0.145.0"
+  },
+  "name": "simulatrix",
+  "description": "A simple simulation software to observe AI behaviour based on various predefined values and in various different environments. Written in Javascript.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianKirk/Simulatrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianKirk/Simulatrix/issues"
+  },
+  "homepage": "https://github.com/JulianKirk/Simulatrix#readme"
+}
